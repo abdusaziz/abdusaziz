@@ -42,7 +42,7 @@
             alt="javascript" width="40" height="40" />
     </a>
 </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdusaziz&label=Profile%20views&color=0e75b6&style=flat" alt="abdusaziz" /> </p>
 <table>
   <tr>
     <td width="60%"> <img align="left" width="100%" src="https://github-readme-stats.vercel.app/api?username=abdusaziz&show_icons=true&theme=default&hide_border=true" /></td>
