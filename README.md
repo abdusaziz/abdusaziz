@@ -1,6 +1,14 @@
 # Azizur Rahman - Full Stack Developer
 
 #### A Full Stack Developer with a passion for building dynamic and responsive web applications.
+<ul>
+    <li>I’m loving to learn stacks on Youtube and Laracast.</li>
+    <li>I’m looking to collaborate on a project with Laravel.</li>
+    <li>I’m looking for a remote job!</li>
+    <li>I can easily communicate with people without a communication barrier through chat, whatsapp and email simply and nothing complicate</li>
+    <li>I'm loving all-things Vue and Laravel. Have recently worked on my first Full-Stack project.</li>
+    <li>I´m enjoy learn and earn everything!</li>
+</ul>
 
 <p align="left">
     <a href="https://laravel.com/" target="_blank" rel="noreferrer">
