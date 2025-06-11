@@ -6,7 +6,7 @@
     <li>I’m looking to collaborate on a project with Laravel.</li>
     <li>I’m looking for a remote job!</li>
     <li>I can easily communicate with people without a communication barrier through chat, whatsapp and email simply and nothing complicate</li>
-    <li>I'm loving all-things Vue and Laravel. Have recently worked on my first Full-Stack project.</li>
+    <li>I'm loving all-things Vue and Laravel.</li>
     <li>I´m enjoy learn and earn everything!</li>
 </ul>
 
